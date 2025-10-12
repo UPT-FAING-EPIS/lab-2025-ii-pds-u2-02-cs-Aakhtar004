@@ -57,14 +57,14 @@ jobs:
       - name: Pack nuget package (CustomerApp.Domain)
         run: |
           dotnet pack CustomerApp/CustomerApp.Domain/CustomerApp.Domain.csproj -c Release \
-            -p:PackageVersion=2025.1001.${{ github.run_number }} \
+            -p:PackageVersion=2025.0742.${{ github.run_number }} \
             -p:RepositoryUrl=https://github.com/${{ github.repository }} \
             -p:RepositoryType=git
 
       - name: Pack nuget package (Notifications.Domain)
         run: |
           dotnet pack Notifications/Notifications.Domain/Notifications.Domain.csproj -c Release \
-            -p:PackageVersion=2025.1001.${{ github.run_number }} \
+            -p:PackageVersion=2025.0742.${{ github.run_number }} \
             -p:RepositoryUrl=https://github.com/${{ github.repository }} \
             -p:RepositoryType=git
 
