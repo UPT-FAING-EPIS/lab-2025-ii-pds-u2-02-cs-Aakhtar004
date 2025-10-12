@@ -1,0 +1,12 @@
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\CustomerApp\CustomerApp.Domain\bin\Debug\net8.0\CustomerApp.Domain.deps.json
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\CustomerApp\CustomerApp.Domain\bin\Debug\net8.0\CustomerApp.Domain.dll
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\CustomerApp\CustomerApp.Domain\bin\Debug\net8.0\CustomerApp.Domain.pdb
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.AssemblyInfoInputs.cache
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.AssemblyInfo.cs
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.csproj.CoreCompileInputs.cache
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.sourcelink.json
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.dll
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\refint\CustomerApp.Domain.dll
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\CustomerApp.Domain.pdb
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\CustomerApp\CustomerApp.Domain\obj\Debug\net8.0\ref\CustomerApp.Domain.dll

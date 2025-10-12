@@ -1,0 +1,12 @@
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\Notifications\Notifications.Domain\bin\Debug\net8.0\Notifications.Domain.deps.json
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\Notifications\Notifications.Domain\bin\Debug\net8.0\Notifications.Domain.dll
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\Notifications\Notifications.Domain\bin\Debug\net8.0\Notifications.Domain.pdb
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.AssemblyInfoInputs.cache
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.AssemblyInfo.cs
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.csproj.CoreCompileInputs.cache
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.sourcelink.json
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.dll
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\Notifications\Notifications.Domain\obj\Debug\net8.0\refint\Notifications.Domain.dll
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\Notifications\Notifications.Domain\obj\Debug\net8.0\Notifications.Domain.pdb
+D:\UPT_8 voCiclo\Patrones de Software\Unidad 2\Lab2_cs\lab-2025-ii-pds-u2-02-cs-Aakhtar004\Notifications\Notifications.Domain\obj\Debug\net8.0\ref\Notifications.Domain.dll
